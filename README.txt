@@ -17,6 +17,8 @@ done here since these are already present on the boxplot.
 This work was completed with support from the Royal Veterinary College, 
 London (www.rvc.ac.uk).
 
+Feedback or bug reports can be sent to Simon Wilshin via swilshin@rvc.ac.uk
+
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
