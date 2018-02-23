@@ -6,7 +6,7 @@ the current matplotlib axis, similar to those in these papers:
 https://www.nature.com/articles/nature25479
 http://jeb.biologists.org/content/220/10/1864
 
-A raster plot is a plot with each data point  represented by a single marker, 
+A raster plot is a plot with each data point represented by a single marker, 
 a boxplot performs aggregation and has a box with a line indicating some measure 
 of central tendency. The edges of the box indicate a measure of spread. Whiskers 
 are added to the box provide both a further indication of spread, and to 
