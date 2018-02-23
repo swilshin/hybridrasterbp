@@ -1,4 +1,4 @@
-Hybrid raster boxplot by Simon Wilshin, Jan 2016
+Hybrid raster boxplot by Simon Wilshin.
 
 The function hybridRasterBp creates a hybrid raster, boxplot and violin plot on 
 the current matplotlib axis.
