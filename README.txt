@@ -1,7 +1,10 @@
 Hybrid raster boxplot by Simon Wilshin.
 
 The function hybridRasterBp creates a hybrid raster, boxplot and violin plot on 
-the current matplotlib axis.
+the current matplotlib axis, similar to those in these papers:
+
+https://www.nature.com/articles/nature25479
+http://jeb.biologists.org/content/220/10/1864
 
 A raster plot is a plot with each data point  represented by a single marker, 
 a boxplot performs aggregation and has a box with a line indicating some measure 
